@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Restu Adi Wahyujati</h1>
-<h3 align="center">Junior Software Engineer | Backend Focused | Clean Code Enthusiast</h3>
+<h1 align="center">Hi, I'm Restu Adi Wahyujati</h1>
+<h3 align="center">Junior Software Engineer | Backend Focused</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/wahyujatirestu/" target="_blank">
