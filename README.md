@@ -49,13 +49,6 @@ A task management system built with React, Redux, Node.js, and Express.js for ef
 #### 💸 PayShare
 A smart bill-splitting & payment app built with Go and integrated with Midtrans for secure online payments.
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wahyujatirestu&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahyujatirestu&theme=tokyonight" width="48%" />
-</p>
 
 ---
 
