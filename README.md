@@ -53,8 +53,9 @@ A smart bill-splitting & payment app built with Go and integrated with Midtrans 
 
 ## My GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wahyujatirestu&show_icons=true&theme=dark&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wahyujatirestu&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyujatirestu&layout=compact&theme=dark)
+
 
 
 ---
