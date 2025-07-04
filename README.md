@@ -15,7 +15,7 @@
 
 ---
 
-### 💫 About Me
+### About Me
 - 🔭 Junior Software Engineer with a strong backend focus  
 - ⚒️ Experienced in building responsive and scalable web apps  
 - 🛠️ Stack: React.js, Node.js, Express.js, PHP, and Go  
@@ -24,7 +24,7 @@
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -41,7 +41,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 #### 🗂️ Task Manager App
 A task management system built with React, Redux, Node.js, and Express.js for efficient team collaboration and task tracking.
@@ -51,19 +51,15 @@ A smart bill-splitting & payment app built with Go and integrated with Midtrans 
 
 ---
 
-## 🚀 My GitHub Stats
+## My GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wahyujatirestu&show_icons=true&theme=dark&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyujatirestu&layout=compact&theme=dark)
 
-## 🏆 GitHub Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=wahyujatirestu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 - 💌 Email: [adijati1029@gmail.com](mailto:adijati1029@gmail.com)
 - 💼 LinkedIn: [wahyujatirestu](https://www.linkedin.com/in/wahyujatirestu/)
 - 🌐 Portfolio: [wahyujatirestu.web.id](https://wahyujatirestu.web.id)
