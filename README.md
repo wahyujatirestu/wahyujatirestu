@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Restu Adi Wahyujati</h1>
-<h3 align="center">Junior Software Engineer | Backend Focused</h3>
+<h3 align="center">Web Developer | Backend Focused</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/wahyujatirestu/" target="_blank">
@@ -16,7 +16,7 @@
 ---
 
 ### About Me
-- 🔭 Junior Software Engineer with a strong backend focus  
+- 🔭 Web Developer with a strong backend focus  
 - ⚒️ Experienced in building responsive and scalable web apps  
 - 🛠️ Stack: React.js, Node.js, Express.js, PHP, and Go  
 - 💳 Built full-featured payment system with Midtrans in Go  
